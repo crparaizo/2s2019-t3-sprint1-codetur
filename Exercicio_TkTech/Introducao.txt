@@ -1,0 +1,17 @@
+App de chamados.
+
+A empresa TkTech para melhor atender seus clientes sentiu a necessidade do desenvolvimento de um app no qual seus clientes podem enviar uma mensagem para a TkTech, o cliente preenche um formulário no app e a TkTech tem acesso as informações preenchidas em um webadmin.
+
+
+App Imobiliária
+
+A corretora de imoveis Codeminio pretende lançar um app para mostrar seus imoveis que estão para venda/aluguel, o cliente preenche um formulário no app e a Codeminio tem acesso as informações preenchidas em um webadmin.
+
+
+App E-commerce Senai
+
+O senai pretende divulgar os seus produtos para os alunos por meio de um app, o mesmo irá listar todos os produtos do senai, ao escolher um produto o mesmo ira para uma tela onde o aluno irá preencher seus dados, em um sistema web o administrador poderá visualizar as informações dos pedidos.
+
+App Biblioteca
+
+A biblioteca Senai deseja divulgar os livros que tem em seu acervo, para isto deseja um app no qual o aluno poderá visualizar os livros e um sistema web onde o administrador poderá cadastrar os livros.  
